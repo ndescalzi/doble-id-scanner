@@ -1,0 +1,42 @@
+{
+  "name": "doble-id-scanner",
+  "version": "1.0.0",
+  "description": "Scan React, Vue, Angular and HTML files for duplicate id attributes",
+  "keywords": [
+    "html",
+    "react",
+    "vue",
+    "angular",
+    "id",
+    "duplicate",
+    "lint",
+    "accessibility",
+    "a11y",
+    "cli"
+  ],
+    "author": {
+    "name": "Nicolás Descalzi",
+    "email": "ndescalzi@gmail.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "doble-id-scanner": "./index.js"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USER/doble-id-scanner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USER/doble-id-scanner/issues"
+  },
+  "homepage": "https://github.com/YOUR_USER/doble-id-scanner#readme"
+}
