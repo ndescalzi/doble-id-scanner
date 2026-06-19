@@ -1,6 +1,6 @@
 {
   "name": "doble-id-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scan React, Vue, Angular and HTML files for duplicate id attributes",
   "keywords": [
     "html",
